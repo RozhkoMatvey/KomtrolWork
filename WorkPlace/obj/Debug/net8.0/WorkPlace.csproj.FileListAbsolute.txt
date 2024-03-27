@@ -1,0 +1,14 @@
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\bin\Debug\net8.0\WorkPlace.exe
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\bin\Debug\net8.0\WorkPlace.deps.json
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\bin\Debug\net8.0\WorkPlace.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\bin\Debug\net8.0\WorkPlace.dll
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\bin\Debug\net8.0\WorkPlace.pdb
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.dll
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\refint\WorkPlace.dll
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.pdb
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\WorkPlace.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\С#ats\WorkPlace\obj\Debug\net8.0\ref\WorkPlace.dll
